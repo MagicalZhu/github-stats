@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #3178c6;width: 30.713%;" class="progress-item"></span><span style="background-color: #b07219;width: 24.696%;" class="progress-item"></span><span style="background-color: #e34c26;width: 16.100%;" class="progress-item"></span><span style="background-color: #563d7c;width: 12.087%;" class="progress-item"></span><span style="background-color: #41b883;width: 6.386%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 6.200%;" class="progress-item"></span><span style="background-color: #3572A5;width: 1.694%;" class="progress-item"></span><span style="background-color: #fcb32c;width: 1.004%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.934%;" class="progress-item"></span><span style="background-color: #e38c00;width: 0.186%;" class="progress-item"></span>
+<span style="background-color: #3178c6;width: 30.715%;" class="progress-item"></span><span style="background-color: #b07219;width: 24.698%;" class="progress-item"></span><span style="background-color: #e34c26;width: 16.101%;" class="progress-item"></span><span style="background-color: #563d7c;width: 12.082%;" class="progress-item"></span><span style="background-color: #41b883;width: 6.387%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 6.201%;" class="progress-item"></span><span style="background-color: #3572A5;width: 1.695%;" class="progress-item"></span><span style="background-color: #fcb32c;width: 1.004%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.934%;" class="progress-item"></span><span style="background-color: #e38c00;width: 0.186%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -171,7 +171,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">CSS</span>
-<span class="percent">12.09%</span>
+<span class="percent">12.08%</span>
 </li>
 
 
